@@ -16,6 +16,8 @@
         "Central Research Development Fund CRDF 30637 (PI: Hallion) Neurobiological Mechanisms Underlying the Acute Effects of Mindfulness on Worry and Rumination",
         "CMU-Pitt Brain Imaging Data Generation & Education (BRIDGE) Center Developmental Fund Seed Grant (PI: Hallion) Neural Mechanisms of Mindful Disengagement from Worry"
     ],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://github.com/ceciwestbrook/RTDisengagement_public"
+    ],
     "DatasetDOI": ""
 }
