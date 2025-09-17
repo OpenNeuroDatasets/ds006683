@@ -1,0 +1,199 @@
+onset	duration	response_time	response	correct	trial_type	corr_ans	thoughtNumber	Thought	Intensity	probenumber	eventType
+0	32.0405233000001	n/a	n/a	n/a	n/a	n/a	1	Grad school	high	n/a	Thoughtblock
+32.0405233000001	1.95474990000002	n/a	None	2.0	go	0	1	Grad school	high	n/a	SART
+33.9952732000002	1.99824949999993	n/a	None	2.0	go	0	1	Grad school	high	n/a	SART
+35.9935227000001	1.99639640000032	0.385829399999693	2	2.0	go	1	1	Grad school	high	n/a	SART
+37.9899191000004	2.00952249999955	0.352975199999946	2	None	nogo	0	1	Grad school	high	n/a	SART
+39.9994416	2.0075810000003	0.384836799999903	2	2.0	go	1	1	Grad school	high	n/a	SART
+42.0070226000003	1.9943502000001	0.483737800000199	2	2.0	go	1	1	Grad school	high	n/a	SART
+44.0013728000004	1.99680839999974	0.432120199999645	2	2.0	go	1	1	Grad school	high	n/a	SART
+45.9981812000001	2.00660730000027	0.631269299999985	2	2.0	go	1	1	Grad school	high	n/a	SART
+48.0047885000004	1.99744069999997	0.443444599999566	2	2.0	go	1	1	Grad school	high	n/a	SART
+50.0022292000003	2.00511499999993	0.55865760000006	2	2.0	go	1	1	Grad school	high	n/a	SART
+52.0073442000003	1.99744659999988	n/a	None	None	nogo	1	1	Grad school	high	n/a	SART
+54.0047908000001	1.98577400000022	0.411442200000238	2	2.0	go	1	1	Grad school	high	n/a	SART
+55.9905648000004	2.00034370000003	n/a	None	None	nogo	1	1	Grad school	high	n/a	SART
+57.9909085000004	2.01427909999984	0.448344599999928	2	2.0	go	1	1	Grad school	high	n/a	SART
+60.0051876000002	1.98849949999976	0.378516199999922	2	2.0	go	1	1	Grad school	high	n/a	SART
+61.9936871	1.99388210000006	n/a	None	None	nogo	1	1	Grad school	high	n/a	SART
+63.9875692000001	2.00685520000025	0.428759899999932	2	2.0	go	1	1	Grad school	high	n/a	SART
+65.9944244000003	1.99629589999995	n/a	None	None	nogo	1	1	Grad school	high	n/a	SART
+67.9907203000002	2.0239031000001	0.382477799999833	2	2.0	go	1	1	Grad school	high	n/a	SART
+70.0146234000003	2.07588739999983	n/a	n/a	n/a	n/a	n/a	1	Grad school	high	n/a	Reflect
+72.0905108000002	25.950981	n/a	None	n/a	n/a	n/a	1	Grad school	high	1	ThoughtProbe
+98.0414918000001	2.01036759999988	n/a	n/a	n/a	n/a	n/a	1	Grad school	high	n/a	Fixation
+100.0518594	32.0209671000002	n/a	n/a	n/a	n/a	n/a	2	Winter clothes	low	n/a	Thoughtblock
+132.0728265	1.96272009999984	n/a	None	2.0	go	0	2	Winter clothes	low	n/a	SART
+134.0355466	1.99917589999995	0.539788200000203	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+136.0347225	2.0141378000003	0.475719099999878	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+138.0488603	1.98644539999987	0.393843400000151	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+140.0353057	1.99508409999999	0.423881899999742	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+142.0303898	2.0121924	0.429890200000045	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+144.0425822	1.99116109999977	0.432804399999895	2	None	nogo	0	2	Winter clothes	low	n/a	SART
+146.0337433	2.01134640000009	0.368760100000145	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+148.0450897	1.99356519999992	n/a	None	None	nogo	1	2	Winter clothes	low	n/a	SART
+150.0386549	2.0105881000004	0.478820100000121	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+152.049243	1.99169679999977	n/a	None	None	nogo	1	2	Winter clothes	low	n/a	SART
+154.0409398	2.01604559999987	0.43623290000005	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+156.0569854	1.98802150000029	0.5817119000003	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+158.0450069	1.99769569999989	n/a	None	None	nogo	1	2	Winter clothes	low	n/a	SART
+160.0427026	2.00525329999982	0.57954669999981	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+162.0479559	1.99912859999995	n/a	None	None	nogo	1	2	Winter clothes	low	n/a	SART
+164.0470845	2.00472000000036	0.479152800000065	2	2.0	go	1	2	Winter clothes	low	n/a	SART
+166.0518045	2.07589499999995	n/a	n/a	n/a	n/a	n/a	2	Winter clothes	low	n/a	Reflect
+168.1276995	25.9521670999998	n/a	None	n/a	n/a	n/a	2	Winter clothes	low	1	ThoughtProbe
+194.0798666	2.00989849999996	n/a	n/a	n/a	n/a	n/a	2	Winter clothes	low	n/a	Fixation
+196.0897651	32.0473416	n/a	n/a	n/a	n/a	n/a	3	Adventure sport	high	n/a	Thoughtblock
+228.1371067	1.94458490000034	n/a	None	2.0	go	0	3	Adventure sport	high	n/a	SART
+230.0816916	2.00743049999983	0.341438999999809	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+232.0891221	1.9964700999999	0.418301000000156	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+234.0855922	2.00440570000001	0.417848500000218	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+236.0899979	1.99969529999998	0.545229899999867	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+238.0896932	1.98639309999999	0.554326100000708	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+240.0760863	2.01526670000021	n/a	None	None	nogo	1	3	Adventure sport	high	n/a	SART
+242.091353	1.98786019999989	0.479868500000066	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+244.0792132	1.99745699999994	0.724954499999967	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+246.0766702	1.99213580000014	n/a	None	None	nogo	1	3	Adventure sport	high	n/a	SART
+248.068806	2.01314069999989	0.728628500000013	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+250.0819467	1.98898510000026	n/a	None	None	nogo	1	3	Adventure sport	high	n/a	SART
+252.0709318	2.01454759999979	0.537317399999665	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+254.0854794	1.98936120000008	0.914052199999787	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+256.0748406	2.01297889999978	0.392075400000067	2	None	nogo	0	3	Adventure sport	high	n/a	SART
+258.0878195	1.9909646000001	0.671989599999961	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+260.0787841	2.01240600000028	n/a	None	None	nogo	1	3	Adventure sport	high	n/a	SART
+262.0911901	1.99150459999964	0.497210799999721	2	2.0	go	1	3	Adventure sport	high	n/a	SART
+264.0826947	2.09722510000029	n/a	n/a	n/a	n/a	n/a	3	Adventure sport	high	n/a	Reflect
+266.1799198	25.9610751999999	n/a	None	n/a	n/a	n/a	3	Adventure sport	high	1	ThoughtProbe
+292.140995	2.0120667000001	n/a	n/a	n/a	n/a	n/a	3	Adventure sport	high	n/a	Fixation
+294.1530617	32.0231328999998	n/a	n/a	n/a	n/a	n/a	4	Musical	high	n/a	Thoughtblock
+326.1761946	1.96828110000024	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+328.1444757	2.00541609999982	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+330.1498918	1.99845360000018	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+332.1483454	1.99979319999966	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+334.1481386	2.00410570000031	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+336.1522443	1.98521019999998	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+338.1374545	1.99918459999981	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+340.1366391	2.00640920000023	n/a	None	None	nogo	1	4	Musical	high	n/a	SART
+342.1430483	1.99714719999974	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+344.1401955	1.99144870000009	n/a	None	None	nogo	1	4	Musical	high	n/a	SART
+346.1316442	2.01179569999977	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+348.1434399	1.99135830000023	n/a	None	None	nogo	1	4	Musical	high	n/a	SART
+350.1347982	2.0124295999999	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+352.1472278	1.99405100000013	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+354.1412788	2.00969720000012	n/a	None	None	nogo	1	4	Musical	high	n/a	SART
+356.150976	1.99293699999998	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+358.143913	2.01059289999966	n/a	None	None	nogo	1	4	Musical	high	n/a	SART
+360.1545059	1.99212770000031	n/a	None	2.0	go	0	4	Musical	high	n/a	SART
+362.1466336	2.08796279999979	n/a	n/a	n/a	n/a	n/a	4	Musical	high	n/a	Reflect
+364.2345964	25.9466878000003	n/a	None	n/a	n/a	n/a	4	Musical	high	1	ThoughtProbe
+390.1812842	2.02312159999974	n/a	n/a	n/a	n/a	n/a	4	Musical	high	n/a	Fixation
+392.2044058	32.0210898	n/a	n/a	n/a	n/a	n/a	5	Dermatologist	low	n/a	Thoughtblock
+424.2254956	1.96348050000006	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+426.1889761	1.99140780000016	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+428.1803839	2.01207769999974	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+430.1924616	1.99370570000019	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+432.1861673	1.9939715999999	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+434.1801389	2.00816880000002	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+436.1883077	1.99429529999998	n/a	None	None	nogo	1	5	Dermatologist	low	n/a	SART
+438.182603	1.99207630000001	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+440.1746793	2.01200920000019	n/a	None	None	nogo	1	5	Dermatologist	low	n/a	SART
+442.1866885	1.99059289999968	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+444.1772814	1.99605640000027	n/a	None	None	nogo	1	5	Dermatologist	low	n/a	SART
+446.1733378	2.0039284999998	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+448.1772663	1.99736140000005	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+450.1746277	2.00540060000003	n/a	None	None	nogo	1	5	Dermatologist	low	n/a	SART
+452.1800283	1.99815829999989	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+454.1781866	2.00911360000009	n/a	None	None	nogo	1	5	Dermatologist	low	n/a	SART
+456.1873002	1.99478540000018	n/a	None	2.0	go	0	5	Dermatologist	low	n/a	SART
+458.1820856	2.09687759999997	n/a	n/a	n/a	n/a	n/a	5	Dermatologist	low	n/a	Reflect
+460.2789632	25.9397457	n/a	None	n/a	n/a	n/a	5	Dermatologist	low	1	ThoughtProbe
+486.2187089	2.00258739999981	n/a	n/a	n/a	n/a	n/a	5	Dermatologist	low	n/a	Fixation
+488.2212963	32.0448864	n/a	n/a	n/a	n/a	n/a	6	Finances	high	n/a	Thoughtblock
+520.2661827	1.95534369999996	n/a	None	None	nogo	1	6	Finances	high	n/a	SART
+522.2215264	2.01294120000011	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+524.2344676	1.99087610000015	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+526.2253437	2.01301129999956	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+528.238355	1.99005290000014	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+530.2284079	1.9946844000001	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+532.2230923	2.00862199999983	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+534.2317143	1.99527910000006	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+536.2269934	1.99444949999997	n/a	None	None	nogo	1	6	Finances	high	n/a	SART
+538.2214429	2.00929610000003	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+540.230739	1.99726210000017	n/a	None	None	nogo	1	6	Finances	high	n/a	SART
+542.2280011	2.00745779999988	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+544.2354589	1.99318649999987	n/a	None	None	nogo	1	6	Finances	high	n/a	SART
+546.2286454	2.00890760000038	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+548.237553	1.99739079999972	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+550.2349438	2.00737299999992	n/a	None	None	nogo	1	6	Finances	high	n/a	SART
+552.2423168	1.99543700000004	n/a	None	2.0	go	0	6	Finances	high	n/a	SART
+554.2377538	2.0860975999999	n/a	n/a	n/a	n/a	n/a	6	Finances	high	n/a	Reflect
+556.3238514	25.9442044000002	n/a	None	n/a	n/a	n/a	6	Finances	high	1	ThoughtProbe
+582.2680558	2.02650320000021	n/a	n/a	n/a	n/a	n/a	6	Finances	high	n/a	Fixation
+584.294559	32.0196277999999	n/a	n/a	n/a	n/a	n/a	7	Packages	high	n/a	Thoughtblock
+616.3141868	1.9619518999998	n/a	None	2.0	go	0	7	Packages	high	n/a	SART
+618.2761387	1.99649219999992	n/a	None	2.0	go	0	7	Packages	high	n/a	SART
+620.2726309	2.00726680000025	n/a	None	2.0	go	0	7	Packages	high	n/a	SART
+622.2798977	1.99697049999986	n/a	None	2.0	go	0	7	Packages	high	n/a	SART
+624.2768682	2.00064980000025	n/a	None	2.0	go	0	7	Packages	high	n/a	SART
+626.277518	1.99529729999995	n/a	None	2.0	go	0	7	Packages	high	n/a	SART
+628.2728153	2.0086311	n/a	None	None	nogo	1	7	Packages	high	n/a	SART
+630.2814464	1.98419509999985	n/a	None	2.0	go	0	7	Packages	high	n/a	SART
+632.2656415	2.0047611	n/a	None	None	nogo	1	7	Packages	high	n/a	SART
+634.2704026	1.99700100000018	n/a	None	2.0	go	0	7	Packages	high	n/a	SART
+636.2674036	1.99372139999969	n/a	None	2.0	go	0	7	Packages	high	n/a	SART
+638.261125	2.01127240000005	n/a	None	None	nogo	1	7	Packages	high	n/a	SART
+640.2723974	1.99330760000021	0.858819600000061	2	2.0	go	1	7	Packages	high	n/a	SART
+642.265705	2.01094979999971	0.498926599999777	2	2.0	go	1	7	Packages	high	n/a	SART
+644.2766548	1.99278530000038	0.394888900000296	2	None	nogo	0	7	Packages	high	n/a	SART
+646.2694401	2.00651789999984	0.418364599999677	2	2.0	go	1	7	Packages	high	n/a	SART
+648.275958	1.99617949999993	n/a	None	None	nogo	1	7	Packages	high	n/a	SART
+650.2721375	1.99677759999986	0.43604920000007	2	2.0	go	1	7	Packages	high	n/a	SART
+652.2689151	2.08512480000036	n/a	n/a	n/a	n/a	n/a	7	Packages	high	n/a	Reflect
+654.3540399	25.9390985999999	n/a	None	n/a	n/a	n/a	7	Packages	high	1	ThoughtProbe
+680.2931385	2.01008379999985	n/a	n/a	n/a	n/a	n/a	7	Packages	high	n/a	Fixation
+682.3032223	32.0453886	n/a	n/a	n/a	n/a	n/a	8	Squeaky door	low	n/a	Thoughtblock
+714.3486109	1.95728700000018	n/a	None	2.0	go	0	8	Squeaky door	low	n/a	SART
+716.3058979	1.99576290000005	0.631415399999696	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+718.3016608	2.00863639999989	0.499063400000068	2	None	nogo	0	8	Squeaky door	low	n/a	SART
+720.3102972	1.99772419999999	0.393012300000009	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+722.3080214	1.99538119999988	0.437271999999666	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+724.3034026	1.98556660000031	0.492236500000217	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+726.2889692	2.0046911999998	0.645487799999955	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+728.2936604	1.99349440000015	0.565391499999805	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+730.2871548	2.00121209999998	0.621180999999979	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+732.2883669	2.00835449999977	0.519965399999819	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+734.2967214	1.99365780000016	n/a	None	None	nogo	1	8	Squeaky door	low	n/a	SART
+736.2903792	2.01325670000006	0.38992159999998	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+738.3036359	1.99034359999996	n/a	None	None	nogo	1	8	Squeaky door	low	n/a	SART
+740.2939795	2.01716600000009	0.447741400000268	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+742.3111455	1.98620459999984	0.599226300000282	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+744.2973501	2.01708250000001	n/a	None	None	nogo	1	8	Squeaky door	low	n/a	SART
+746.3144326	1.98673360000021	0.488935700000184	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+748.3011662	1.99885730000005	n/a	None	None	nogo	1	8	Squeaky door	low	n/a	SART
+750.3000235	2.00523529999964	0.5324142999998	2	2.0	go	1	8	Squeaky door	low	n/a	SART
+752.3052588	2.10049780000008	n/a	n/a	n/a	n/a	n/a	8	Squeaky door	low	n/a	Reflect
+754.4057566	25.9350168000001	n/a	None	n/a	n/a	n/a	8	Squeaky door	low	1	ThoughtProbe
+780.3407734	2.01017430000002	n/a	n/a	n/a	n/a	n/a	8	Squeaky door	low	n/a	Fixation
+782.3509477	32.0388306	n/a	n/a	n/a	n/a	n/a	9	Thai food	high	n/a	Thoughtblock
+814.3897783	1.94995019999988	n/a	None	2.0	go	0	9	Thai food	high	n/a	SART
+816.3397285	2.01029689999996	n/a	None	2.0	go	0	9	Thai food	high	n/a	SART
+818.3500254	1.99332900000036	n/a	None	2.0	go	0	9	Thai food	high	n/a	SART
+820.3433544	1.99776669999983	n/a	None	2.0	go	0	9	Thai food	high	n/a	SART
+822.3411211	2.00580979999995	n/a	None	2.0	go	0	9	Thai food	high	n/a	SART
+824.3469309	1.99774650000018	0.554171499999939	2	2.0	go	1	9	Thai food	high	n/a	SART
+826.3446774	2.02708029999985	0.506455499999447	2	2.0	go	1	9	Thai food	high	n/a	SART
+828.3717577	1.9769725000001	0.477227200000016	2	2.0	go	1	9	Thai food	high	n/a	SART
+830.3487302	2.00732840000001	n/a	None	None	nogo	1	9	Thai food	high	n/a	SART
+832.3560586	1.99590970000008	0.433888899999602	2	2.0	go	1	9	Thai food	high	n/a	SART
+834.3519683	2.01076929999999	n/a	None	None	nogo	1	9	Thai food	high	n/a	SART
+836.3627376	1.99278149999964	0.499286199999915	2	2.0	go	1	9	Thai food	high	n/a	SART
+838.3555191	1.99390700000004	n/a	None	None	nogo	1	9	Thai food	high	n/a	SART
+840.3494261	2.01026840000031	0.405542700000296	2	2.0	go	1	9	Thai food	high	n/a	SART
+842.3596945	1.99353269999983	0.551346400000057	2	2.0	go	1	9	Thai food	high	n/a	SART
+844.3532272	1.98854149999988	n/a	None	None	nogo	1	9	Thai food	high	n/a	SART
+846.3417687	2.01498949999996	0.414283399999931	2	2.0	go	1	9	Thai food	high	n/a	SART
+848.3567582	1.98859110000012	n/a	None	None	nogo	1	9	Thai food	high	n/a	SART
+850.3453493	1.99829790000013	0.455739199999698	2	2.0	go	1	9	Thai food	high	n/a	SART
+852.3436472	2.09650680000004	n/a	n/a	n/a	n/a	n/a	9	Thai food	high	n/a	Reflect
+854.440154	25.9404646999997	n/a	None	n/a	n/a	n/a	9	Thai food	high	1	ThoughtProbe
+880.3806187	2	n/a	n/a	n/a	n/a	n/a	9	Thai food	high	n/a	Fixation
