@@ -4,13 +4,13 @@ Participants provided self-generated repetitive thought (RT) topics during an in
  # Data included: # 
 All imaging data was collected on a 3T MRI scanner (MAGNETOM Verio syngo MR B17, Siemens Corporation) with a 64-channel radio-frequency (RF) head coil array.
 
-## Anatomical  
+### Anatomical  
 T1-weighted structural images (1 mm3 voxels) were acquired in the sagittal plane with an isotropic MPRAGE sequence using a parallel imaging factor of 2 (TR=2500, TE=2.90, TI = 1070, flip angle = 8º, voxel size = 1.0mm3, matrix size 256x256).
 
-## Functional  
+### Functional  
 Functional data were collected as T2*-weighted gradient-echo echo-planar images with a multiband acceleration factor of 3 (TR = 2000, TE = 30, flip angle = 79º, echo spacing = 0.62, voxel size = 2.0mm3, matrix size 106x106, transversal orientation, 72 interleaved slices). 
 
-## Fieldmap. 
+### Fieldmap
 Two opposite phase-encoding (A>>P, P>>A) field maps were collected with resolution 3.0x3.0x2.0mm and matrix size 72x72. 
 
  # Preregistration: # 
