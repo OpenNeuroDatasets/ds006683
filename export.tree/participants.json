@@ -1,0 +1,55 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier."
+  },
+  "age": {
+    "Description": "Age at the time of the MRI session.",
+    "Units": "years"
+  },
+  "gender": {
+    "Description": "Self-reported gender identity.",
+    "Levels": {
+      "Man": "Man",
+      "Nonbinary": "Nonbinary",
+      "Woman": "Woman",
+      "n/a": "Not reported"
+    }
+  },
+  "race": {
+    "Description": "Self-reported race, recorded at screening.",
+    "Levels": {
+      "Asian": "Asian",
+      "Black": "Black",
+      "Other": "Other",
+      "White": "White",
+      "n/a": "Not reported"
+    }
+  },
+  "ethnicity": {
+    "Description": "Self-reported ethnicity, recorded at screening.",
+    "Levels": {
+      "Hispanic or Latino": "Hispanic or Latino",
+      "Not Hispanic or Latino": "Not Hispanic or Latino",
+      "n/a": "Not reported"
+    }
+  },
+  "exclusion": {
+    "Description": "Whether the participant was excluded from the primary analysis sample reported in the associated manuscript, and why. All participants who completed the scan are included in this dataset regardless, so users may apply their own criteria.",
+    "Levels": {
+      "insufficient_probe_responses": "Too few thought-probe responses to compute momentary uncontrollability.",
+      "insufficient_sart_responses": "Too few SART responses to compute a performance index.",
+      "n/a": "No exclusion; participant included in the primary analysis sample."
+    }
+  },
+  "ptq_total": {
+    "Description": "Perseverative Thinking Questionnaire (PTQ-15) prorated total, computed from item-level responses to the BASELINE battery collected at the first study visit. See phenotype/ptq.json. A separate screening administration is in phenotype/ptq_screening.tsv.",
+    "TermURL": "https://doi.org/10.1016/j.jbtep.2010.12.003"
+  },
+  "pswq_total": {
+    "Description": "Penn State Worry Questionnaire (PSWQ-16) prorated total. See phenotype/pswq.json.",
+    "TermURL": "https://doi.org/10.1016/0005-7967(90)90135-6"
+  },
+  "n_diagnoses": {
+    "Description": "Number of DSM-5 diagnoses met at or above clinical threshold on the ADIS-5. Per-disorder diagnostic status is in phenotype/adis.tsv."
+  }
+}
