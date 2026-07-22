@@ -1,43 +1,43 @@
 {
-  "Name": "RT Disengagement",
-  "BIDSVersion": "1.10.0",
-  "DatasetType": "raw",
-  "License": "CC0-1.0",
-  "Authors": [
-    "Lauren S. Hallion",
-    "Cecilia A. Westbrook",
-    "Brittany Alberts",
-    "M. Kathleen Caulfield",
-    "Peter J. Gianaros",
-    "Jonathan Smallwood",
-    "Mary Blendermann",
-    "Jennifer S. Silk"
-  ],
-  "Acknowledgements": "Brittany Alberts served as project manager. We thank the participants for their time.",
-  "HowToAcknowledge": "Please cite the associated publication(s) and this dataset by its OpenNeuro DOI. Preregistered analyses are available at https://osf.io/qy4df",
-  "Funding": [
-    "National Institute of Mental Health K01MH116328 (to Lauren Hallion)"
-  ],
-  "EthicsApprovals": [
-    "University of Pittsburgh Institutional Review Board"
-  ],
-  "ReferencesAndLinks": [
-    "https://osf.io/qy4df",
-    "https://osf.io/preprints/psyarxiv/8ea5z",
-    "https://github.com/ceciwestbrook/RTDisengagement_public"
-  ],
-  "DatasetDOI": "doi:10.18112/openneuro.ds006683.v1.0.2",
-  "GeneratedBy": [
-    {
-      "Name": "TReW-Brain de-identification pipeline",
-      "Description": "Participant-generated reminder phrases were removed from all task events files and replaced with a within-subject identifier (thought_uid). See the README for details.",
-      "Version": "1.0"
-    }
-  ],
-  "SourceDatasets": [
-    {
-      "DOI": "doi:10.18112/openneuro.ds006683.v1.0.1",
-      "Version": "1.0.1"
-    }
-  ]
+    "Name": "RT Disengagement",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Lauren S. Hallion",
+        "Cecilia A. Westbrook",
+        "Brittany Alberts",
+        "M. Kathleen Caulfield",
+        "Peter J. Gianaros",
+        "Jonathan Smallwood",
+        "Mary Blendermann",
+        "Jennifer S. Silk"
+    ],
+    "Acknowledgements": "Brittany Alberts served as project manager. We thank the participants for their time.",
+    "HowToAcknowledge": "Please cite the associated publication(s) and this dataset by its OpenNeuro DOI. Preregistered analyses are available at https://osf.io/qy4df",
+    "Funding": [
+        "National Institute of Mental Health K01MH116328 (to Lauren Hallion)"
+    ],
+    "EthicsApprovals": [
+        "University of Pittsburgh Institutional Review Board"
+    ],
+    "ReferencesAndLinks": [
+        "https://osf.io/qy4df",
+        "https://osf.io/preprints/psyarxiv/8ea5z",
+        "https://github.com/ceciwestbrook/RTDisengagement_public"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006683.v1.0.2",
+    "GeneratedBy": [
+        {
+            "Name": "TReW-Brain de-identification pipeline",
+            "Description": "Participant-generated reminder phrases were removed from all task events files and replaced with a within-subject identifier (thought_uid). See the README for details.",
+            "Version": "1.0"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "doi:10.18112/openneuro.ds006683.v1.0.1",
+            "Version": "1.0.1"
+        }
+    ]
 }
