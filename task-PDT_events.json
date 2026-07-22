@@ -15,18 +15,10 @@
     "Units": "s"
   },
   "response": {
-    "Description": "Raw response recorded. For SART trials, the button code (2 = index-finger press); 'None' where no button was pressed. For thought probes, the slider position from 0 to 100.",
-    "Levels": {
-      "2": "Button press (SART go response)",
-      "None": "No response recorded"
-    }
+    "Description": "The response the participant actually made on this trial. For SART trials, 2 indicates a button press and n/a indicates no press. For thought probes, the slider position from 0 to 100."
   },
   "correct": {
-    "Description": "Whether the SART response was correct given the trial type. n/a for non-SART events.",
-    "Levels": {
-      "2.0": "Correct response",
-      "None": "Incorrect or absent response"
-    }
+    "Description": "The response that would have been correct on this trial, given the trial type: 2.0 (a button press) on go trials, and n/a (withholding a response) on no-go trials. This is the expected answer, not a record of whether the participant was accurate; see corr_ans for accuracy."
   },
   "trial_type": {
     "Description": "SART trial category. Go trials presented digits 0-7 or 9 and required a button press; no-go trials presented the digit 8 and required withholding a response. n/a for non-SART events.",
@@ -36,10 +28,10 @@
     }
   },
   "corr_ans": {
-    "Description": "The correct action for this SART trial. n/a for non-SART events.",
+    "Description": "Whether the participant's response matched the correct answer on this trial. n/a for non-SART events.",
     "Levels": {
-      "1": "Response expected",
-      "0": "Response should be withheld"
+      "1": "Correct: pressed the button on a go trial, or withheld a response on a no-go trial",
+      "0": "Incorrect: omitted a response on a go trial, or pressed the button on a no-go trial"
     }
   },
   "thoughtNumber": {

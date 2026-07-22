@@ -3,13 +3,15 @@
     files; replaced with thought_uid, a stable within-participant identifier
   - Replaced per-run events sidecars, which described a different study, with a
     single corrected task-PDT_events.json at the dataset root
-  - Added phenotype/ with pre-scan thought ratings, ADIS-5 diagnoses, and PTQ
-    and PSWQ scores
+  - Added pre-scan thought ratings at stimuli/thought_ratings.tsv, keyed by
+    participant_id and thought_uid
+  - Added phenotype/ with ADIS-5 diagnoses and PTQ and PSWQ scores
   - Expanded participants.tsv with race, ethnicity, trait totals, diagnosis
     count, and coded analysis-exclusion status
   - Corrected participants.json (gender levels did not match the data; age
     incorrectly specified as categorical)
   - Corrected scanner model in README (Prisma, not Verio)
+  - Replaced the missing-value token NA with n/a in all events files, per BIDS
   - Removed sub-367 from participants.tsv (no imaging or questionnaire data)
 
 1.0.1 2025-09-18

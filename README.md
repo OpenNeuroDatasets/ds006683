@@ -58,23 +58,26 @@ task-PDT_events.json            column definitions for all events files
 sub-<label>/ses-01/
     anat/    T1w
     func/    task-PDT and task-restingstate bold, task-PDT events, fieldmaps
-phenotype/
+stimuli/
     thought_ratings.tsv/.json   pre-scan ratings, one row per (participant, thought)
+phenotype/
     adis.tsv/.json              ADIS-5 diagnoses, one column per disorder
     ptq.tsv/.json               PTQ-15 baseline totals and subscales
     ptq_screening.tsv/.json     PTQ-15 from the separate screening administration
     pswq.tsv/.json              PSWQ-16 totals
 ```
 
-# Joining phenotype data to the events files: #
+The nine idiographic thoughts served as the task stimuli. Because the stimulus text was participant-generated and has been removed for privacy (see above), `stimuli/` contains ratings describing each stimulus rather than the stimuli themselves.
 
-`phenotype/thought_ratings.tsv` is keyed on `participant_id` + `thought_uid`, the same pair that appears in every `*_events.tsv`. To attach each participant's pre-scan ratings for a given thought to the corresponding scanner blocks, merge on those two columns.
+# Joining thought ratings to the events files: #
+
+`stimuli/thought_ratings.tsv` is keyed on `participant_id` + `thought_uid`, the same pair that appears in every `*_events.tsv`. To attach each participant's pre-scan ratings for a given thought to the corresponding scanner blocks, merge on those two columns.
 
 ```python
 import pandas as pd
 events = pd.read_csv("sub-302/ses-01/func/sub-302_ses-01_task-PDT_run-01_events.tsv",
                      sep="\t")
-ratings = pd.read_csv("phenotype/thought_ratings.tsv", sep="\t")
+ratings = pd.read_csv("stimuli/thought_ratings.tsv", sep="\t")
 events["participant_id"] = "sub-302"
 merged = events.merge(ratings, on=["participant_id", "thought_uid"], how="left")
 ```
@@ -88,13 +91,13 @@ Before scanning, participants rated each of their nine thoughts on 36 items acro
 - `quality_*` (8 items) — "How ____ is the thought?"
 - `emotion_*` (11 items) — "The thought makes me feel…?"
 
-Full item wording is in `phenotype/thought_ratings.json`.
+Full item wording is in `stimuli/thought_ratings.json`.
 
 **Uncontrollability.** Two derived columns are provided: `dyscontrol_raw`, the mean of `quality_repetitive`, `quality_intrusive`, and `quality_uncontrollable` over non-missing items; and `dyscontrol_imputed`, the same with missing items imputed as 0.
 
 Approximately 26% of thought-characteristic responses were missing because the survey software left non-endorsed items blank rather than recording a 0. Imputation was tested at every possible value (0–9); internal consistency was highest at 0 (Cronbach's α = 0.89) and lowest at 9 (0.81), supporting 0 as the intended value. `dyscontrol_imputed` is the variable used in the associated manuscript; results did not substantially differ between imputed and non-imputed data.
 
-Note that `phenotype/thought_ratings.tsv` may contain rows for thoughts that were rated but never scanned; these will not match any `thought_uid` in the events files.
+Note that `stimuli/thought_ratings.tsv` may contain rows for thoughts that were rated but never scanned; these will not match any `thought_uid` in the events files.
 
 # Questionnaires and diagnoses: #
 
