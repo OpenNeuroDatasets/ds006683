@@ -1,0 +1,12 @@
+{
+  "participant_id": {
+    "Description": "BIDS participant identifier."
+  },
+  "pswq_total": {
+    "Description": "PSWQ-16 prorated total, reverse items recoded. Meyer et al., 1990.",
+    "TermURL": "https://doi.org/10.1016/0005-7967(90)90135-6"
+  },
+  "pswq_n_missing": {
+    "Description": "Number of missing PSWQ items (of 16)."
+  }
+}

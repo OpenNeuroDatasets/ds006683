@@ -1,3 +1,17 @@
+1.0.2 2026-07-22
+  - Removed participant-generated reminder phrase text from all task events
+    files; replaced with thought_uid, a stable within-participant identifier
+  - Replaced per-run events sidecars, which described a different study, with a
+    single corrected task-PDT_events.json at the dataset root
+  - Added phenotype/ with pre-scan thought ratings, ADIS-5 diagnoses, and PTQ
+    and PSWQ scores
+  - Expanded participants.tsv with race, ethnicity, trait totals, diagnosis
+    count, and coded analysis-exclusion status
+  - Corrected participants.json (gender levels did not match the data; age
+    incorrectly specified as categorical)
+  - Corrected scanner model in README (Prisma, not Verio)
+  - Removed sub-367 from participants.tsv (no imaging or questionnaire data)
+
 1.0.1 2025-09-18
   - Updated Dataset Description
 1.0.0 2025-09-18

@@ -1,27 +1,55 @@
 {
-  "Age": {
-    "LongName": "Age",
-    "Description": "Participant age",
+  "participant_id": {
+    "Description": "Unique participant identifier."
+  },
+  "age": {
+    "Description": "Age at the time of the MRI session.",
+    "Units": "years"
+  },
+  "gender": {
+    "Description": "Self-reported gender identity.",
     "Levels": {
-      "Numeric Age": "Numeric age"
+      "Man": "Man",
+      "Nonbinary": "Nonbinary",
+      "Woman": "Woman",
+      "n/a": "Not reported"
     }
   },
-  "Gender": {
-    "LongName": "Gender",
-    "Description": "Participant self-reported gender",
+  "race": {
+    "Description": "Self-reported race, recorded at screening.",
     "Levels": {
-      "Male": "Male",
-      "female": "Female"
+      "Asian": "Asian",
+      "Black": "Black",
+      "Other": "Other",
+      "White": "White",
+      "n/a": "Not reported"
     }
   },
-  "Notes": {
-    "LongName": "Notes",
-    "Description": "General notes about the scan session",
+  "ethnicity": {
+    "Description": "Self-reported ethnicity, recorded at screening.",
     "Levels": {
-      "not enough probes completed": "This participant did not complete enough thought probes to calculate uncontrollability.",
-      "High motion run 3": "We excluded the third run from this participant due to high motion. Use at your own risk.",
-      "Almost no RTs on SART": "This participant made almost no responses on the SART. This may have been a technical issue.",
-      "n/a": "no additional notes"
+      "Hispanic or Latino": "Hispanic or Latino",
+      "Not Hispanic or Latino": "Not Hispanic or Latino",
+      "n/a": "Not reported"
     }
+  },
+  "exclusion": {
+    "Description": "Whether the participant was excluded from the primary analysis sample reported in the associated manuscript, and why. All participants who completed the scan are included in this dataset regardless, so users may apply their own criteria.",
+    "Levels": {
+      "insufficient_probe_responses": "Too few thought-probe responses to compute momentary uncontrollability.",
+      "insufficient_sart_responses": "Too few SART responses to compute a performance index.",
+      "n/a": "No exclusion; participant included in the primary analysis sample."
+    }
+  },
+  "ptq_total": {
+    "Description": "Perseverative Thinking Questionnaire (PTQ-15) prorated total, computed from item-level responses to the BASELINE battery collected at the first study visit. See phenotype/ptq.json. A separate screening administration is in phenotype/ptq_screening.tsv.",
+    "TermURL": "https://doi.org/10.1016/j.jbtep.2010.12.003"
+  },
+  "pswq_total": {
+    "Description": "Penn State Worry Questionnaire (PSWQ-16) prorated total. See phenotype/pswq.json.",
+    "TermURL": "https://doi.org/10.1016/0005-7967(90)90135-6"
+  },
+  "n_diagnoses": {
+    "Description": "Number of DSM-5 diagnoses met at or above clinical threshold on the ADIS-5. Per-disorder diagnostic status is in phenotype/adis.tsv."
   }
 }

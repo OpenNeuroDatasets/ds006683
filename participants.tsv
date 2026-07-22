@@ -1,63 +1,62 @@
-participant_id	Age	Gender	Notes
-sub-301	20	Man	n/a
-sub-302	43	Man	n/a
-sub-303	27	Woman	n/a
-sub-304	27	Woman	not enough probes completed
-sub-305	20	Man	n/a
-sub-307	39	Woman	n/a
-sub-308	24	Woman	n/a
-sub-309	42	Man	n/a
-sub-312	21	Woman	n/a
-sub-313	24	Nonbinary	n/a
-sub-314	24	Woman	n/a
-sub-315	20	Man	almost no RTs on SART
-sub-317	34	Man	n/a
-sub-318	20	Woman	n/a
-sub-320	25	Woman	n/a
-sub-322	23	Woman	n/a
-sub-323	45	Woman	n/a
-sub-326	32	Woman	n/a
-sub-329	34	Woman	n/a
-sub-331	35	Man	n/a
-sub-332	38	Woman	n/a
-sub-333	32	Man	n/a
-sub-334	30	Woman	n/a
-sub-335	30	Woman	n/a
-sub-336	31	Man	n/a
-sub-337	36	Man	n/a
-sub-338	23	Woman	n/a
-sub-339	41	Woman	n/a
-sub-342	27	Woman	n/a
-sub-344	30	Woman	n/a
-sub-345	45	Man	n/a
-sub-346	41	Woman	n/a
-sub-348	33	Woman	n/a
-sub-349	35	Woman	n/a
-sub-351	28	Man	n/a
-sub-353	32	Woman	n/a
-sub-356	23	Nonbinary	n/a
-sub-358	22	Woman	n/a
-sub-359	32	Woman	n/a
-sub-362	38	Man	n/a
-sub-363	23	Woman	n/a
-sub-364	23	Nonbinary	n/a
-sub-365	35	Man	n/a
-sub-366	39	Woman	not enough probes completed
-sub-367	23	Woman	n/a
-sub-368	36	Man	n/a
-sub-370	31	Man	n/a
-sub-374	31	Man	n/a
-sub-376	21	Man	n/a
-sub-379	25	Woman	n/a
-sub-381	25	Woman	n/a
-sub-384	36	Woman	"only two runs, almost no SART responses"
-sub-385	22	Woman	n/a
-sub-386	21	Woman	n/a
-sub-387	25	Man	n/a
-sub-390	33	Woman	n/a
-sub-393	38	Woman	n/a
-sub-394	25	Nonbinary	n/a
-sub-399	37	Man	n/a
-sub-400	20	Man	n/a
-sub-401	30	Man	n/a
-sub-405	21	Woman	n/a
+participant_id	age	gender	race	ethnicity	exclusion	ptq_total	pswq_total	n_diagnoses
+sub-301	20	Man	White	Not Hispanic or Latino	n/a	29.0	48.0	0
+sub-302	43	Man	White	Not Hispanic or Latino	n/a	23.0	48.0	0
+sub-303	27	Woman	Black	Not Hispanic or Latino	n/a	50.0	76.0	7
+sub-304	27	Woman	n/a	n/a	insufficient_probe_responses	40.0	68.0	n/a
+sub-305	20	Man	White	Not Hispanic or Latino	n/a	12.0	38.0	0
+sub-307	39	Woman	Black	Not Hispanic or Latino	n/a	33.0	58.0	4
+sub-308	24	Woman	Asian	Not Hispanic or Latino	n/a	43.0	65.0	1
+sub-309	42	Man	White	Not Hispanic or Latino	n/a	19.0	44.0	0
+sub-312	21	Woman	Asian	Not Hispanic or Latino	n/a	40.0	65.0	3
+sub-313	24	Nonbinary	White	Not Hispanic or Latino	n/a	20.0	52.0	1
+sub-314	24	Woman	Asian	Not Hispanic or Latino	n/a	32.0	58.0	3
+sub-315	20	Man	White	Not Hispanic or Latino	insufficient_sart_responses	25.0	58.0	0
+sub-317	34	Man	Asian	Not Hispanic or Latino	n/a	49.0	73.0	4
+sub-318	20	Woman	White	Not Hispanic or Latino	n/a	22.0	67.0	1
+sub-320	25	Woman	Black	Not Hispanic or Latino	n/a	n/a	n/a	0
+sub-322	23	Woman	White	Not Hispanic or Latino	n/a	42.0	65.0	3
+sub-323	45	Woman	White	Not Hispanic or Latino	n/a	33.0	78.0	5
+sub-326	32	Woman	White	Not Hispanic or Latino	n/a	30.0	45.0	2
+sub-329	34	Woman	White	Not Hispanic or Latino	n/a	34.0	50.0	2
+sub-331	35	Man	White	Not Hispanic or Latino	n/a	38.0	68.0	5
+sub-332	38	Woman	White	Not Hispanic or Latino	n/a	25.0	49.0	1
+sub-333	32	Man	White	Not Hispanic or Latino	n/a	30.0	56.0	1
+sub-334	30	Woman	White	Not Hispanic or Latino	n/a	27.0	54.0	0
+sub-335	30	Woman	White	Not Hispanic or Latino	n/a	48.0	67.0	6
+sub-336	31	Man	White	Not Hispanic or Latino	n/a	33.0	57.0	1
+sub-337	36	Man	Black	Not Hispanic or Latino	n/a	21.0	60.0	1
+sub-338	23	Woman	White	Not Hispanic or Latino	n/a	17.0	59.0	1
+sub-339	41	Woman	White	Not Hispanic or Latino	n/a	37.0	73.0	6
+sub-342	27	Woman	White	Not Hispanic or Latino	n/a	n/a	n/a	2
+sub-344	30	Woman	Black	Not Hispanic or Latino	n/a	22.0	43.0	5
+sub-345	45	Man	White	Not Hispanic or Latino	n/a	32.0	59.0	2
+sub-346	41	Woman	White	Not Hispanic or Latino	n/a	38.0	71.0	5
+sub-348	33	Woman	White	Not Hispanic or Latino	n/a	44.0	58.0	3
+sub-349	35	Woman	White	Not Hispanic or Latino	n/a	43.0	74.0	2
+sub-351	28	Man	Asian	Not Hispanic or Latino	n/a	4.0	40.0	0
+sub-353	32	Woman	White	Hispanic or Latino	n/a	n/a	n/a	6
+sub-356	23	Nonbinary	Black	Hispanic or Latino	n/a	46.0	54.0	6
+sub-358	22	Woman	Other	Hispanic or Latino	n/a	26.0	58.0	3
+sub-359	32	Woman	Other	Not Hispanic or Latino	n/a	43.0	74.0	6
+sub-362	38	Man	White	Not Hispanic or Latino	n/a	33.0	48.0	3
+sub-363	23	Woman	White	Not Hispanic or Latino	n/a	30.0	47.0	0
+sub-364	23	Nonbinary	White	Not Hispanic or Latino	n/a	41.0	68.0	6
+sub-365	35	Man	White	Not Hispanic or Latino	n/a	n/a	n/a	0
+sub-366	39	Woman	n/a	n/a	insufficient_probe_responses	16.0	51.0	n/a
+sub-368	36	Man	White	Not Hispanic or Latino	n/a	32.0	59.0	2
+sub-370	31	Man	Asian	Not Hispanic or Latino	n/a	39.0	68.0	6
+sub-374	31	Man	Asian	Not Hispanic or Latino	n/a	31.000000000000004	53.0	2
+sub-376	21	Man	Asian	Not Hispanic or Latino	n/a	10.0	35.0	0
+sub-379	25	Woman	Asian	Not Hispanic or Latino	n/a	40.0	61.0	5
+sub-381	25	Woman	Asian	Not Hispanic or Latino	n/a	40.0	64.0	4
+sub-384	36	Woman	n/a	n/a	insufficient_sart_responses	18.0	42.0	n/a
+sub-385	22	Woman	White	Not Hispanic or Latino	n/a	39.0	72.0	9
+sub-386	21	Woman	White	Not Hispanic or Latino	n/a	24.0	59.0	1
+sub-387	25	Man	Asian	Not Hispanic or Latino	n/a	50.0	76.0	6
+sub-390	33	Woman	White	Not Hispanic or Latino	n/a	41.0	75.0	6
+sub-393	38	Woman	White	Not Hispanic or Latino	n/a	27.0	75.0	3
+sub-394	25	Nonbinary	Black	Hispanic or Latino	n/a	24.0	61.0	6
+sub-399	37	Man	White	Not Hispanic or Latino	n/a	19.0	32.0	2
+sub-400	20	Man	Asian	Not Hispanic or Latino	n/a	50.0	74.0	3
+sub-401	30	Man	Asian	Not Hispanic or Latino	n/a	n/a	n/a	0
+sub-405	21	Woman	Black	Not Hispanic or Latino	n/a	24.0	61.0	1

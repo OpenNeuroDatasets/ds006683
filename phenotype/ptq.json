@@ -1,0 +1,28 @@
+{
+  "participant_id": {
+    "Description": "BIDS participant identifier."
+  },
+  "ptq_total": {
+    "Description": "PTQ-15 prorated total. Ehring et al., 2011.",
+    "TermURL": "https://doi.org/10.1016/j.jbtep.2010.12.003"
+  },
+  "ptq_core": {
+    "Description": "PTQ core subscale (items 1,2,3,6,11), prorated."
+  },
+  "ptq_unproductive": {
+    "Description": "PTQ unproductiveness subscale (4,9,10,13,14)."
+  },
+  "ptq_capacity": {
+    "Description": "PTQ mental-capacity subscale (5,7,8,12,15)."
+  },
+  "ptq_attention_pass": {
+    "Description": "Whether the embedded PTQ attention check was passed.",
+    "Levels": {
+      "True": "passed",
+      "False": "failed"
+    }
+  },
+  "ptq_n_missing": {
+    "Description": "Number of missing PTQ items (of 15)."
+  }
+}
