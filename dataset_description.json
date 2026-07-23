@@ -26,7 +26,7 @@
         "https://osf.io/preprints/psyarxiv/8ea5z",
         "https://github.com/ceciwestbrook/RTDisengagement_public"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006683.v1.0.2",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006683.v1.0.3",
     "GeneratedBy": [
         {
             "Name": "TReW-Brain de-identification pipeline",
