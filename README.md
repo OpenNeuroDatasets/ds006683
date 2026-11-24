@@ -23,7 +23,7 @@ Each trial comprised a 32s thought block (reminder cue presented), a 34–38s SA
 
 **SART.** Go trials presented digits 0–7 and 9; no-go trials presented the digit 8. Each stimulus appeared for 250ms followed by a fixation cross. Participants pressed a button after each stimulus unless it was an 8, in which case they withheld a response. Block length was jittered (17, 18, or 19 trials) to reduce expectancy.
 
-**Thought probes.** At the end of each disengagement period, participants answered six prompts of the form "Just before the signal, to what extent were your thoughts ____?", responding on a visual slider from 0 to 100 using a five-button data glove held in the right hand. Probe 1 ("To what extent were your thoughts repetitive, intrusive, or hard to control?") operationalizes disengagement success in the associated manuscript.
+**Thought probes.** At the end of each disengagement period, participants answered six prompts on a visual slider from 0 to 100, using a five-button data glove held in the right hand. The prompts asked whether their thoughts were repetitive, intrusive, or hard to control (probe 1), whether their thoughts were focused on the task (probe 2), whether they were trying to focus on the task (probe 3), and how afraid (probe 4), sad (probe 5), and sleepy or lively (probe 6) they felt. The exact wording is given in task-PDT_events.json. Probe 1 ("To what extent were your thoughts repetitive, intrusive, or hard to control?") operationalizes disengagement success in the associated manuscript.
 
 # Privacy: removal of participant-generated reminder phrases #
 
