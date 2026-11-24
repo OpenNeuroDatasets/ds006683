@@ -1,0 +1,10 @@
+1.0.4 2026-11-24
+  - 1.0.4 2026-11-24   - Corrected task-PDT_events.json: SART go trials use digits 1-7 and 9; fixation rows run until the next thought block and are longer than 2 s when the probes were finished early; thought_uid joins to stimuli/thought_ratings.tsv, not phenotype/   - Added the wording and slider anchors of all six thought probes, and the definition of time zero, to the events dictionary   - Corrected the thought-probe description in the README: the prompts do not share a common form, and probes 4 to 6 ask about feelings
+1.0.3 2026-07-23
+  - Corrected annexed files by manually uploading
+1.0.2 2026-07-22
+  - - Removed participant-generated reminder phrase text from all task events files; replaced with thought_uid, a stable within-participant identifier - Replaced per-run events sidecars, which described a different study, with a single corrected task-PDT_events.json at the dataset root - Added pre-scan thought ratings at stimuli/thought_ratings.tsv, keyed by participant_id and thought_uid - Added phenotype/ with ADIS-5 diagnoses and PTQ and PSWQ scores - Expanded participants.tsv with race, ethnicity, trait totals, diagnosis count, and coded analysis-exclusion status - Corrected participants.json (gender levels did not match the data; age incorrectly specified as categorical) - Corrected scanner model in README (Prisma, not Verio) - Replaced the missing-value token NA with n/a in all events files, per BIDS - Removed sub-367 from participants.tsv (no imaging or questionnaire data)
+1.0.1 2025-09-18
+  - Updated Dataset Description
+1.0.0 2025-09-18
+  - First commit
