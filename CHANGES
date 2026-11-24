@@ -1,3 +1,5 @@
+1.0.4 2026-11-24
+  - 1.0.4 2026-11-24   - Corrected task-PDT_events.json: SART go trials use digits 1-7 and 9; fixation rows run until the next thought block and are longer than 2 s when the probes were finished early; thought_uid joins to stimuli/thought_ratings.tsv, not phenotype/   - Added the wording and slider anchors of all six thought probes, and the definition of time zero, to the events dictionary   - Corrected the thought-probe description in the README: the prompts do not share a common form, and probes 4 to 6 ask about feelings
 1.0.3 2026-07-23
   - Corrected annexed files by manually uploading
 1.0.2 2026-07-22
